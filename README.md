@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olino80)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Olino80&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Olino80&show_icons=true&include_all_commits=true&theme=dark_github)
+
 <!--
 **Olinoedson/Olinoedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
