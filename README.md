@@ -1,5 +1,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Olino80&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Olino80&show_icons=true&include_all_commits=true&theme=dark_github)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Olino80&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Olino80&langs_count=4&theme=dark_github)
+
 <!--
 **Olinoedson/Olinoedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
